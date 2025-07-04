@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/8fc3d38f-f11e-4881-8891-e1a746fbde70)
+![MasterHead](https://github.com/user-attachments/assets/3429ada2-3bd1-4239-8c57-2309ff3c9593)
 
 - 🌱 I’m currently learning **Jetpack Compose & Kotlin Multiplatform**
 
