@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **rathwahelly@gmail.com**
 
-- 📄 Know about my experiences in [Resume](https://www.canva.com/design/DAGZoGxrfMk/fElwm_aGRymDEXZwUrqMsw/edit?utm_content=DAGZoGxrfMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 - ⚡ Fun fact **Gradle sync is the adult version of “Are we there yet?”**
 
 <h3 align="left">Connect with me:</h3>
